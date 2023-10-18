@@ -1,0 +1,23 @@
+This is an analysis of films on Letterboxd, using data from Kaggle. 
+
+I wanted to get answers for the following questions:
+
+1. What are the top 20 highest rated films on Letterboxd?
+
+2. What are the top 20 directors on Letterboxd?
+
+3. Which actors star in the most movies with a rating of higher than 4 stars?
+
+4. What are the top 20 languages on Letterboxd, sorted by number of movies?
+
+5. What are the top 10 movies in the top 5 languages?
+
+6. What are the top 10 movies in Animation, Drama, Comedy, Thriller, and Adventure?
+
+7. Is there a relationship between genre and average ratings?
+
+8. What is the correlation coefficient between runtime and average ratings?
+
+9. What is the correlation coefficient between total reviews and average ratings?
+
+10. What is the correlation coefficient between release year and average ratings?
